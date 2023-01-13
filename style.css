@@ -48,3 +48,26 @@ html, body {
   .items-center{
     align-items: center;
   }
+
+  button{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    font-weight: 1000;
+    color: white;
+  }
+
+  .row button:last-child{
+    background-color: #fb9527;
+  }
+
+  .C{
+    background-color: #a8a7ad;
+  }
+
+  .g{
+    background-color: #333333;
+  }
+
+  body{
+    color: white;
+    background-color: black;
+  }
